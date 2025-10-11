@@ -281,13 +281,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Meta** for WhatsApp Business API
 - **Indian farmers** for inspiration and feedback
 
-## 📞 Support
-
-- 📧 Email: support@agribot.com
-- 💬 WhatsApp: +91-XXXXXXXXXX
-- 🐛 Issues: [GitHub Issues](https://github.com/yourusername/agribot/issues)
-
----
 
 <div align="center">
   <strong>Made with ❤️ for farmers across India</strong>
@@ -319,8 +312,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-- 📧 Email: support@agribot.com
-- 💬 WhatsApp: +91-XXXXXXXXXX
+- 📧 Email: kiransahukar16@gmail.com
 - 🐛 Issues: [GitHub Issues](https://github.com/yourusername/agribot/issues)
 
 ---
