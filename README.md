@@ -29,6 +29,11 @@
 
 AgriBot is a comprehensive, multi-lingual agricultural assistant that brings the power of AI directly to farmers' WhatsApp. By combining real-time weather data, market prices, and advanced machine learning, it provides personalized farming advice in local languages.
 
+
+Access Our PPT here:
+[ppt link](Presentation.pdf)
+
+
 ### ✨ Key Features
 
 #### 🤖 WhatsApp Chatbot Framework
