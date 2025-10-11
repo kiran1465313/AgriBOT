@@ -25,6 +25,7 @@
 - [🙏 Acknowledgments](#-acknowledgments)
 
 ## 🚀 Overview
+![AgriBOT](https://socialify.git.ci/kiran1465313/AgriBOT/image?description=1&font=JetBrains+Mono&language=1&name=1&owner=1&pattern=Circuit+Board&theme=Auto)
 
 AgriBot is a comprehensive, multi-lingual agricultural assistant that brings the power of AI directly to farmers' WhatsApp. By combining real-time weather data, market prices, and advanced machine learning, it provides personalized farming advice in local languages.
 
