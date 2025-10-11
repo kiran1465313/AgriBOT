@@ -282,12 +282,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Indian farmers** for inspiration and feedback
 
 
-<div align="center">
-  <strong>Made with ❤️ for farmers across India</strong>
-  <br>
-  <sub>Bridging technology and agriculture, one message at a time</sub>
-</div>I Uptime**: 99.9%
-
 ## 🤝 Contributing
 
 We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.md) for details.
