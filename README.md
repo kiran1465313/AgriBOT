@@ -237,16 +237,6 @@ The notebook includes an interactive widget for direct crop predictions:
 💡 Good time to sell! Prices are 15% above average.
 ```
 
-## 🔧 Configuration
-
-### API Configuration
-```python
-# config.py
-GEMINI_API_KEY = "your_api_key_here"
-OPENWEATHER_API_KEY = "your_api_key_here"
-WHATSAPP_TOKEN = "your_token_here"
-VERIFY_TOKEN = "your_verify_token_here"
-```
 
 ### Supported Languages
 - English (en)
