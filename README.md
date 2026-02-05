@@ -26,7 +26,7 @@
 
 ## 🚀 Overview
 
-![Hacknovation-AgriTech](![AgriBOT](https://socialify.git.ci/kiran1465313/AgriBOT/image?language=1&owner=1&name=1&stargazers=1&theme=Light))
+![Hacknovation-AgriTech]([![AgriBOT](https://socialify.git.ci/kiran1465313/AgriBOT/image?language=1&owner=1&name=1&stargazers=1&theme=Light)](https://socialify.git.ci/kiran1465313/AgriBOT/image?language=1&owner=1&name=1&stargazers=1&theme=Light))
 
 AgriBot is a comprehensive, multi-lingual agricultural assistant that brings the power of AI directly to farmers' WhatsApp. By combining real-time weather data, market prices, and advanced machine learning, it provides personalized farming advice in local languages.
 
